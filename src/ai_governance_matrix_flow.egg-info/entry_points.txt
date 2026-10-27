@@ -1,0 +1,2 @@
+[console_scripts]
+matrix-flow = matrix_flow.flow:kickoff

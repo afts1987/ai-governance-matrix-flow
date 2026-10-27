@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: ai-governance-matrix-flow
+Version: 0.1.0
+Summary: CrewAI Flow that keeps an AI governance risk matrix alive: source watching, evidence audit, reporting — with human gates.
+Requires-Python: >=3.10
+Requires-Dist: crewai[anthropic]>=1.15
+Requires-Dist: crewai-tools>=1.0
+Requires-Dist: openpyxl>=3.1
+Requires-Dist: pydantic>=2
+Requires-Dist: python-dotenv>=1.0
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"

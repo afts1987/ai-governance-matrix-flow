@@ -1,0 +1,17 @@
+{
+  "role": "Deployer",
+  "high_risk": "To be determined",
+  "annex": "None",
+  "personal_data": "Yes",
+  "special_categories": "No",
+  "biometrics": "No",
+  "genai": "Yes",
+  "chatbot": "Yes",
+  "continues_learning": "No",
+  "digital_product": "No",
+  "sme": "Yes",
+  "sector": "All",
+  "nis2": "No",
+  "transfers": "Yes",
+  "fria": "No"
+}

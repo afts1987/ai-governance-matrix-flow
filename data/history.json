@@ -1,0 +1,632 @@
+[
+  {
+    "ts": "2026-10-22T10:33:03+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:76986,25&cs=17E4F9ABCBAC14D2D4C9D36D274FAA1FB"
+  },
+  {
+    "ts": "2026-10-22T10:33:03+00:00",
+    "entity": "sources",
+    "id": "S20",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:83968,2916257&cs=1AE0E84FB77D7D3D0D502227093B42A42"
+  },
+  {
+    "ts": "2026-10-22T10:33:03+00:00",
+    "entity": "sources",
+    "id": "S22",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://ai-act-service-desk.ec.europa.eu/sites/default/files/2025-08/commission_guidelines_on_the_definition_of_an_artificial_intelligence_system_established_by_regulation_eu_20241689_ai_actenglish_nf2skcqfrtjdfggjavcodopcwz4_112455.PDF"
+  },
+  {
+    "ts": "2026-10-22T13:03:06+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "note",
+    "old": null,
+    "new": "[2026-10-22] Stage: under approval. The standard prEN 18229-1 has progressed from draft stage to 'Under Approval' stage according to the official CEN-CENELEC standards database.",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:76986,25"
+  },
+  {
+    "ts": "2026-10-22T13:03:06+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-22T13:03:06+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "note",
+    "old": null,
+    "new": "[2026-10-22] Stage: public enquiry. The standard prEN 18228 on AI Risk Management is now under Public Enquiry until the end of July 2026, as stated in a CEN-CENELEC newsletter dated 2026-05-27.",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-22T13:03:06+00:00",
+    "entity": "sources",
+    "id": "S20",
+    "field": "note",
+    "old": null,
+    "new": "[2026-10-22] Stage: Under Approval. The standard prEN 18229-3 (JT021056) has progressed to 'Under Approval' stage, having previously passed through CEN Enquiry in July 2026.",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:83968,2916257"
+  },
+  {
+    "ts": "2026-10-22T13:03:06+00:00",
+    "entity": "sources",
+    "id": "S21",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act"
+  },
+  {
+    "ts": "2026-10-22T13:03:06+00:00",
+    "entity": "sources",
+    "id": "S21",
+    "field": "note",
+    "old": "Confirm current version.",
+    "new": "[2026-10-22] Stage: published. The Commission Guidelines on prohibited artificial intelligence practices established by Regulation (EU) 2024/1689 (AI Act) were formally published on 4 February 2025, with a Commission Communication dated 29 July 2025 (C(2025) 5052 final). The guidelines are confirmed as non-binding and provide practical guidance on Article 5 AI Act prohibitions.",
+    "actor": "human:gate_sources",
+    "basis": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S07",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://ar2025.cencenelec.eu/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S07",
+    "field": "stage",
+    "old": null,
+    "new": "enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://ar2025.cencenelec.eu/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S07",
+    "field": "note",
+    "old": "Do not cite as a final standard.",
+    "new": "[2026-10-22] Stage: enquiry. [evidence dated 2025-11-01, older than last verification —] The CEN-CENELEC Annual Report 2025 states that prEN 18284 'Artificial Intelligence - Quality and governance of datasets in AI' was successfully submitted to enquiry in November 2025. This represents a stage progression within the draft status.",
+    "actor": "human:gate_sources",
+    "basis": "https://ar2025.cencenelec.eu/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S08",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S08",
+    "field": "stage",
+    "old": null,
+    "new": "enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S08",
+    "field": "note",
+    "old": null,
+    "new": "[2026-10-22] Stage: enquiry. [evidence dated 2026-05-27, older than last verification —] prEN 18283 has progressed from working draft consultation (closed 30 April 2026) to public enquiry stage, with enquiry closing 22 October 2026.",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S10",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/significant-milestone-for-european-ai-standardization/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S10",
+    "field": "stage",
+    "old": null,
+    "new": "public enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/significant-milestone-for-european-ai-standardization/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S10",
+    "field": "note",
+    "old": null,
+    "new": "[2026-10-22] Stage: public enquiry. [evidence dated 2026-06-01, older than last verification —] prEN 18282 has entered public enquiry stage. Multiple sources indicate the public enquiry period is open until approximately end of July 2026 (some sources cite 30 July, others early August 2026).",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/significant-milestone-for-european-ai-standardization/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "stage",
+    "old": null,
+    "new": "rejected at enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "note",
+    "old": "[2026-10-22] Stage: public enquiry. The standard prEN 18228 on AI Risk Management is now under Public Enquiry until the end of July 2026, as stated in a CEN-CENELEC newsletter dated 2026-05-27.",
+    "new": "[2026-10-22] Stage: rejected at enquiry. [evidence dated 2026-05-27, older than last verification 2026-10-22] The public enquiry for prEN 18228 closed on 30 July 2026. Multiple sources indicate the standard was rejected at enquiry, with comment resolution scheduled for November 2026.",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S14",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S14",
+    "field": "stage",
+    "old": null,
+    "new": "adopted",
+    "actor": "human:gate_sources",
+    "basis": "https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf"
+  },
+  {
+    "ts": "2026-10-22T13:39:58+00:00",
+    "entity": "sources",
+    "id": "S14",
+    "field": "note",
+    "old": null,
+    "new": "[2026-10-22] Stage: adopted. [evidence dated 2024-12-17, older than last verification —] EDPB Opinion 28/2024 was adopted on 17 December 2024 and published on 18 December 2024. The stage changed from none to adopted.",
+    "actor": "human:gate_sources",
+    "basis": "https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf"
+  },
+  {
+    "ts": "2026-10-22T15:44:06+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "stage",
+    "old": null,
+    "new": "rejected at public enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://krogrules.com/news/explorer"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "note",
+    "old": "[2026-10-22] Stage: under approval. The standard prEN 18229-1 has progressed from draft stage to 'Under Approval' stage according to the official CEN-CENELEC standards database.",
+    "new": "[2026-10-22] Stage: rejected at public enquiry. [evidence dated 2026-08-20, older than last verification 2026-10-22] The standard prEN 18229-1 completed its public enquiry phase on 20 August 2026 and was reportedly rejected on the weighted population criterion according to multiple secondary sources.",
+    "actor": "human:gate_sources",
+    "basis": "https://krogrules.com/news/explorer"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S10",
+    "field": "stage",
+    "old": "public enquiry",
+    "new": "under approval",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:79708,2916257"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S10",
+    "field": "note",
+    "old": "[2026-10-22] Stage: public enquiry. [evidence dated 2026-06-01, older than last verification —] prEN 18282 has entered public enquiry stage. Multiple sources indicate the public enquiry period is open until approximately end of July 2026 (some sources cite 30 July, others early August 2026).",
+    "new": "[2026-10-22] Stage: under approval. The CEN-CENELEC official database shows prEN 18282 status changed from 'public enquiry' to 'Under Approval'. The public enquiry closed on 30 July 2026, and the draft is now in the approval stage.",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:79708,2916257"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S13",
+    "field": "status",
+    "old": "Non-binding guidance",
+    "new": "Published standard (not harmonised)",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2024/brief-news/2024-10-14-wsd-2024/"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S13",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2024/brief-news/2024-10-14-wsd-2024/"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S13",
+    "field": "stage",
+    "old": null,
+    "new": "published",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2024/brief-news/2024-10-14-wsd-2024/"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S13",
+    "field": "note",
+    "old": null,
+    "new": "[2026-10-22] Stage: published. [evidence dated 2024-10-14, older than last verification —] ISO/IEC TR 24027 was published in 2021 and adopted by CEN-CENELEC as CEN/CLC ISO/IEC/TR 24027:2023. The status has changed from non-binding guidance to a published technical report.",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2024/brief-news/2024-10-14-wsd-2024/"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:80227,2916257"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "stage",
+    "old": null,
+    "new": "enquiry (pren 18287), under approval (pren 18281), drafting (pren 18285)",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:80227,2916257"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "note",
+    "old": "No rows attached yet.",
+    "new": "[2026-10-22] Stage: enquiry (prEN 18287), under approval (prEN 18281), drafting (prEN 18285). Primary sources from CEN-CENELEC show prEN 18287 is now 'Under Enquiry', prEN 18281 is 'Under Approval', and prEN 18285 remains in drafting. These are distinct stages within the draft status that were not previously recorded.",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:80227,2916257"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S29",
+    "field": "status",
+    "old": "Final text — deferred application",
+    "new": "Final text — in force",
+    "actor": "human:gate_sources",
+    "basis": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S29",
+    "field": "verified_on",
+    "old": "2026-10-20",
+    "new": "2026-10-22",
+    "actor": "human:gate_sources",
+    "basis": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng"
+  },
+  {
+    "ts": "2026-10-22T15:44:07+00:00",
+    "entity": "sources",
+    "id": "S29",
+    "field": "note",
+    "old": "Art. 14 applies to in-scope products already on the market (Art. 69(3)).",
+    "new": "[2026-10-22] [evidence dated 2024-11-20, older than last verification 2026-10-20] The regulation entered into force on 10 December 2024, twenty days after publication in the Official Journal on 20 November 2024. Application dates remain as recorded: Article 14 from 11 September 2026, full application from 11 December 2027.",
+    "actor": "human:gate_sources",
+    "basis": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng"
+  },
+  {
+    "ts": "2026-10-22T17:07:47+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "stage",
+    "old": "second enquiry",
+    "new": "comment resolution",
+    "actor": "human:gate_sources",
+    "basis": "https://krogrules.com/news/edition-16-september-2026"
+  },
+  {
+    "ts": "2026-10-22T17:07:47+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "note",
+    "old": "[2026-10-22] Stage: second enquiry. Second edition prEN 18228:2026 published 11 Sep 2026; public enquiry 11 Sep to 11 Nov 2026 (DIN). First enquiry closed July 2026.",
+    "new": "[2026-10-22] Stage: comment resolution. [evidence dated 2026-09-01, older than last verification 2026-10-22] [evidence dated 2026-09-01, older than last verification 2026-10-22] [evidence dated 2026-09-01, older than last verification 2026-10-22] [evidence dated 2026-09-01, older than last verification 2026-10-22] [evidence dated 2026-09-01, older than last verification 2026-10-22] The first public enquiry for prEN 18228 closed on 30 July 2026 and was rejected by a majority of national standards bodies. The standard is now in comment resolution phase (scheduled for November 2026) before proceeding to formal vote.",
+    "actor": "human:gate_sources",
+    "basis": "https://krogrules.com/news/edition-16-september-2026"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-23",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:76986,25"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "stage",
+    "old": "",
+    "new": "under approval",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:76986,25"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "note",
+    "old": "",
+    "new": "[2026-10-23] Stage: Under Approval. The CEN-CENELEC official project page now shows prEN 18229-1 with stage 'Under Approval', whereas the previous record had no stage information.",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=205:110:::::FSP_PROJECT,FSP_LANG_ID:76986,25"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-23",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "stage",
+    "old": "",
+    "new": "public enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "note",
+    "old": "",
+    "new": "[2026-10-23] Stage: public enquiry. The standard prEN 18228 has progressed to the public enquiry stage. According to a CEN-CENELEC news article dated 2026-05-27, the standard is under Public Enquiry until the end of July 2026.",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-23",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:80227,2916257"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "stage",
+    "old": "",
+    "new": "under enquiry (pren 18287), under approval (pren 18281), under drafting (pren 18285)",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:80227,2916257"
+  },
+  {
+    "ts": "2026-10-23T12:04:34+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "note",
+    "old": "",
+    "new": "[2026-10-23] Stage: Under Enquiry (prEN 18287), Under Approval (prEN 18281), Under Drafting (prEN 18285). The CEN-CENELEC standards database shows different stages for the three standards: prEN 18287 is 'Under Enquiry', prEN 18281 is 'Under Approval', and prEN 18285 is 'Under Drafting'. The record showed no stage information previously.",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:80227,2916257"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-23",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/significant-milestone-for-european-ai-standardization/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "stage",
+    "old": "",
+    "new": "enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/significant-milestone-for-european-ai-standardization/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S09",
+    "field": "note",
+    "old": "",
+    "new": "[2026-10-23] Stage: enquiry. The standard prEN 18229-1 has progressed to the public enquiry stage. According to the JTC 21 official website, the public hearing (enquiry) for prEN 18229-1 was scheduled until 20 August 2026.",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/significant-milestone-for-european-ai-standardization/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S10",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-23",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/new-advancements-in-european-standardization-for-artificial-intelligence/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S10",
+    "field": "stage",
+    "old": "",
+    "new": "enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/new-advancements-in-european-standardization-for-artificial-intelligence/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S10",
+    "field": "note",
+    "old": "",
+    "new": "[2026-10-23] Stage: enquiry. The standard prEN 18282 has progressed to Public Enquiry stage. According to the official JTC 21 website dated May 8, 2026, EN 18282 (Cybersecurity specifications for AI systems) is now available for Public Enquiry, marking a stage advancement from the previously recorded draft status with no specified stage.",
+    "actor": "human:gate_sources",
+    "basis": "https://jtc21.eu/new-advancements-in-european-standardization-for-artificial-intelligence/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-23",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "stage",
+    "old": "",
+    "new": "enquiry",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S11",
+    "field": "note",
+    "old": "",
+    "new": "[2026-10-23] Stage: enquiry. prEN 18228 entered public enquiry phase in May 2026, with the enquiry period running until 30 July 2026. The CEN-CENELEC official news page confirms the standard is under Public Enquiry to support Article 9 of the AI Act.",
+    "actor": "human:gate_sources",
+    "basis": "https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-73-etuc/"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S14",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-23",
+    "actor": "human:gate_sources",
+    "basis": "https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S14",
+    "field": "stage",
+    "old": "",
+    "new": "adopted",
+    "actor": "human:gate_sources",
+    "basis": "https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S14",
+    "field": "note",
+    "old": "",
+    "new": "[2026-10-23] Stage: Adopted. The EDPB Opinion 28/2024 on AI models was formally adopted on 17 December 2024 and published on 18 December 2024. The stage changed from none to 'Adopted'.",
+    "actor": "human:gate_sources",
+    "basis": "https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "verified_on",
+    "old": "—",
+    "new": "2026-10-23",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:79657,2916257"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "stage",
+    "old": "",
+    "new": "pren 18287: under enquiry; pren 18281: under approval; pren 18285: under drafting",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:79657,2916257"
+  },
+  {
+    "ts": "2026-10-23T18:12:10+00:00",
+    "entity": "sources",
+    "id": "S25",
+    "field": "note",
+    "old": "",
+    "new": "[2026-10-23] Stage: prEN 18287: Under Enquiry; prEN 18281: Under Approval; prEN 18285: Under Drafting. The three standards are confirmed to remain in draft status (prEN) but are now at different stages: prEN 18287 is Under Enquiry, prEN 18281 is Under Approval, and prEN 18285 is Under Drafting. These stages were not previously recorded.",
+    "actor": "human:gate_sources",
+    "basis": "https://standards.cencenelec.eu/ords/f?p=CEN:110:::::FSP_PROJECT,FSP_ORG_ID:79657,2916257"
+  }
+]

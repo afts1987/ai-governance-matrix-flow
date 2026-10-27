@@ -1,0 +1,19 @@
+[project]
+name = "ai-governance-matrix-flow"
+version = "0.1.0"
+description = "CrewAI Flow that keeps an AI governance risk matrix alive: source watching, evidence audit, reporting — with human gates."
+requires-python = ">=3.10"
+dependencies = ["crewai[anthropic]>=1.15", "crewai-tools>=1.0", "openpyxl>=3.1", "pydantic>=2", "python-dotenv>=1.0"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+matrix-flow = "matrix_flow.flow:kickoff"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

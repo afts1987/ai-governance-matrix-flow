@@ -1,0 +1,26 @@
+services:
+  matrix-flow:
+    build: .
+    image: ai-governance-matrix-flow:0.1
+    env_file: .env
+    environment:
+      HITL_MODE: ${HITL_MODE:-file}   # 'console' only for interactive runs: docker compose run matrix-flow
+    volumes:
+      - ./data:/app/data               # matrix.json, profile.json, sources.json, history.json, pending/
+    stdin_open: true
+    tty: true
+
+  # One-off helpers
+  convert:
+    image: ai-governance-matrix-flow:0.1
+    entrypoint: ["python", "scripts/xlsx_to_json.py"]
+    command: ["/app/input/matrix.xlsx", "/app/data"]
+    volumes:
+      - ./data:/app/data
+      - ./input:/app/input:ro
+    profiles: ["tools"]
+
+  test:
+    image: ai-governance-matrix-flow:0.1
+    entrypoint: ["pytest", "-q"]
+    profiles: ["tools"]

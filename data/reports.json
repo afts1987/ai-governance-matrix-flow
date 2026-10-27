@@ -1,0 +1,1477 @@
+[
+  {
+    "round": "2026-10-22-a85079",
+    "period": "2026-10-22-a85079",
+    "sources_changed": [
+      "S09",
+      "S20",
+      "S22"
+    ],
+    "rows_pending_review": [],
+    "evidence_missing": [],
+    "summary": "During this round, three sources underwent approved changes. S09, S20, and S22 were all modified and accepted into the matrix. No changes were rejected during the review process. At present, there are no rows awaiting your decision or requiring owner-level review. All evidence appears current and accounted for, with no missing documentation flagged by the system. No errors requiring manual intervention were detected during this cycle. The matrix remains stable with these three source updates integrated. All automated checks completed without issue, and the governance process proceeded smoothly through its standard workflow. This represents routine maintenance activity with no outstanding items requiring immediate attention or follow-up action from ownership.",
+    "evidence": [
+      {
+        "row_id": "RK-10.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of reviewed vendor terms, vendor assessment, or approved classification rule."
+      },
+      {
+        "row_id": "R-12.09",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for: Log design approved by the DPO; RoPA entry."
+      },
+      {
+        "row_id": "RK-12.A",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "RK-12.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for storage configuration or restore tests evidence."
+      },
+      {
+        "row_id": "R-04.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of training plan, attendance records, or versioned content."
+      },
+      {
+        "row_id": "R-05.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of intake checklist with prohibited practices section or record of refused cases."
+      },
+      {
+        "row_id": "R-05.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of signed policy, filter configuration, or incident log."
+      },
+      {
+        "row_id": "R-06.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of use-case register with classification and reasoning."
+      },
+      {
+        "row_id": "R-06.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-50.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of policy or editorial review record."
+      },
+      {
+        "row_id": "R-GDPR.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of completed intake or RoPA entry."
+      },
+      {
+        "row_id": "R-GDPR.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-GDPR.03",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of triage criterion or human intervention procedure."
+      },
+      {
+        "row_id": "R-GDPR.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-GDPR.05",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of signed DPA or vendor assessment."
+      },
+      {
+        "row_id": "R-GDPR.06",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for access matrix or test reports."
+      },
+      {
+        "row_id": "R-GDPR.07",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of procedure or breach log."
+      },
+      {
+        "row_id": "R-GDPR.08",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of DPIA per system or reasoned decision not to perform DPIA."
+      },
+      {
+        "row_id": "R-GDPR.09",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to verify presence of RoPA with AI entries"
+      },
+      {
+        "row_id": "R-GDPR.10",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for vendor assessment with transfer mechanism for international transfers to AI vendors outside EEA"
+      },
+      {
+        "row_id": "RK-G.A",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of citation check results, review record, or evaluation metrics."
+      },
+      {
+        "row_id": "RK-G.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of tool design, adversarial test reports, or approval log."
+      },
+      {
+        "row_id": "RK-G.C",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "RK-G.D",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-DA.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of contractual clauses or exit plans per vendor."
+      },
+      {
+        "row_id": "R-III.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for HR tool inventory with classification"
+      }
+    ],
+    "errors": []
+  },
+  {
+    "round": "2026-10-22-529d25",
+    "period": "2026-10-22-529d25",
+    "sources_changed": [],
+    "rows_pending_review": [],
+    "evidence_missing": [],
+    "evidence_unknown_count": 26,
+    "summary": "No source changes were approved or rejected this round. No rows require review decisions at this time. Evidence checks encountered a system error preventing verification of 26 rows. Multiple sources including S08, S09, S10, S11, S13, S14, S15, S16, S19, S20, S21, S22, S23, S24, S25, and S29 all reported the same runtime error indicating the executor was already running and could not be invoked concurrently. This technical issue means evidence status could not be determined for any of these rows. The evidence store may not be properly configured or the system experienced a concurrency conflict during the checking process. Manual investigation of the executor configuration and evidence verification system is needed before the next round to restore checking capability.",
+    "evidence": [
+      {
+        "row_id": "RK-10.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of reviewed vendor terms, vendor assessment, or approved classification rule."
+      },
+      {
+        "row_id": "R-12.09",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for log design approved by DPO or RoPA entry."
+      },
+      {
+        "row_id": "RK-12.A",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "RK-12.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for storage configuration or restore tests evidence."
+      },
+      {
+        "row_id": "R-04.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of training plan, attendance records, or versioned content."
+      },
+      {
+        "row_id": "R-05.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Expected evidence: Intake checklist with the prohibited practices section; record of refused cases."
+      },
+      {
+        "row_id": "R-05.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of signed policy, filter configuration, or incident log."
+      },
+      {
+        "row_id": "R-06.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of use-case register with classification and reasoning."
+      },
+      {
+        "row_id": "R-06.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-50.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of policy or editorial review record."
+      },
+      {
+        "row_id": "R-GDPR.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of completed intake or RoPA entry."
+      },
+      {
+        "row_id": "R-GDPR.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-GDPR.03",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of triage criterion or human intervention procedure."
+      },
+      {
+        "row_id": "R-GDPR.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-GDPR.05",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-GDPR.06",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for access matrix or test reports."
+      },
+      {
+        "row_id": "R-GDPR.07",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of procedure or breach log."
+      },
+      {
+        "row_id": "R-GDPR.08",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of DPIA per system or reasoned decision not to perform DPIA."
+      },
+      {
+        "row_id": "R-GDPR.09",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to verify presence of RoPA with AI entries"
+      },
+      {
+        "row_id": "R-GDPR.10",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for vendor assessment with transfer mechanism for international transfers to AI vendors outside EEA"
+      },
+      {
+        "row_id": "RK-G.A",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of citation check results, review record, or evaluation metrics."
+      },
+      {
+        "row_id": "RK-G.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of tool design, adversarial test reports, or approval log."
+      },
+      {
+        "row_id": "RK-G.C",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of permission matrix per agent or access review record."
+      },
+      {
+        "row_id": "RK-G.D",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-DA.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of contractual clauses or exit plans per vendor."
+      },
+      {
+        "row_id": "R-III.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for HR tool inventory with classification"
+      }
+    ],
+    "errors": [
+      "S08: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S11: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S13: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S14: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S15: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S16: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S19: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S20: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S21: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S22: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S23: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S24: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S25: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S29: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S09: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently.",
+      "S10: RuntimeError: Executor is already running. Cannot invoke the same executor instance concurrently."
+    ]
+  },
+  {
+    "round": "2026-10-22-a57467",
+    "period": "2026-10-22-a57467",
+    "sources_changed": [
+      "S07: stage enquiry; The CEN-CENELEC Annual Report 2025 states that prEN 18284 'Artificial Intelligence - Quality and governance of datasets in AI' was successfully submitted to enquiry in November 2025. This represents a stage progression within the draft status.",
+      "S08: stage enquiry; prEN 18283 has progressed from working draft consultation (closed 30 April 2026) to public enquiry stage, with enquiry closing 22 October 2026.",
+      "S10: stage public enquiry; prEN 18282 has entered public enquiry stage. Multiple sources indicate the public enquiry period is open until approximately end of July 2026 (some sources cite 30 July, others early August 2026).",
+      "S11: stage rejected at enquiry; The public enquiry for prEN 18228 closed on 30 July 2026. Multiple sources indicate the standard was rejected at enquiry, with comment resolution scheduled for November 2026.",
+      "S14: stage adopted; EDPB Opinion 28/2024 was adopted on 17 December 2024 and published on 18 December 2024. The stage changed from none to adopted."
+    ],
+    "rows_pending_review": [],
+    "evidence_missing": [],
+    "evidence_unknown_count": 26,
+    "summary": "Five sources were updated this round. Source S07 records prEN 18284 advancing to enquiry stage in November 2025 per the CEN-CENELEC Annual Report. Source S08 shows prEN 18283 moved from working draft to public enquiry, closing 22 October 2026. Source S10 captures prEN 18282 entering public enquiry with a period ending around late July 2026. Source S11 documents prEN 18228 being rejected at enquiry after the 30 July 2026 close, with comment resolution scheduled for November 2026. Source S14 reflects EDPB Opinion 28/2024 adopted on 17 December 2024. No rows require owner decision and no evidence was found missing. However, 26 rows could not be checked due to store configuration issues or errors, meaning the state of evidence for those entries remains unknown.",
+    "evidence": [
+      {
+        "row_id": "RK-10.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of reviewed vendor terms, vendor assessment, or approved classification rule."
+      },
+      {
+        "row_id": "R-12.09",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for log design approved by DPO or RoPA entry."
+      },
+      {
+        "row_id": "RK-12.A",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of log schema or session reconstruction test."
+      },
+      {
+        "row_id": "RK-12.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for storage configuration or restore tests."
+      },
+      {
+        "row_id": "R-04.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of training plan, attendance records, or versioned content."
+      },
+      {
+        "row_id": "R-05.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of intake checklist with prohibited practices section or record of refused cases."
+      },
+      {
+        "row_id": "R-05.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of signed policy, filter configuration, or incident log."
+      },
+      {
+        "row_id": "R-06.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of use-case register with classification and reasoning."
+      },
+      {
+        "row_id": "R-06.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of derogation reasoning in the use-case register."
+      },
+      {
+        "row_id": "R-50.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of policy or editorial review record."
+      },
+      {
+        "row_id": "R-GDPR.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of completed intake or RoPA entry."
+      },
+      {
+        "row_id": "R-GDPR.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-GDPR.03",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of triage criterion or human intervention procedure."
+      },
+      {
+        "row_id": "R-GDPR.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-GDPR.05",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of signed DPA or vendor assessment."
+      },
+      {
+        "row_id": "R-GDPR.06",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for access matrix or test reports."
+      },
+      {
+        "row_id": "R-GDPR.07",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of procedure or breach log."
+      },
+      {
+        "row_id": "R-GDPR.08",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for DPIA per system or reasoned decision not to perform DPIA"
+      },
+      {
+        "row_id": "R-GDPR.09",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to verify presence of RoPA with AI entries"
+      },
+      {
+        "row_id": "R-GDPR.10",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for vendor assessment with transfer mechanism for international transfers to AI vendors outside EEA"
+      },
+      {
+        "row_id": "RK-G.A",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of citation check results, review record, or evaluation metrics."
+      },
+      {
+        "row_id": "RK-G.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of tool design, adversarial test reports, or approval log."
+      },
+      {
+        "row_id": "RK-G.C",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of permission matrix per agent or access review record."
+      },
+      {
+        "row_id": "RK-G.D",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-DA.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of contractual clauses or exit plans per vendor."
+      },
+      {
+        "row_id": "R-III.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for HR tool inventory with classification"
+      }
+    ],
+    "errors": []
+  },
+  {
+    "round": "2026-10-22-50c0ed",
+    "period": "2026-10-22-50c0ed",
+    "sources_changed": [
+      "S09: stage rejected at public enquiry; the standard prEN 18229-1 completed its public enquiry phase on 20 August 2026 and was reportedly rejected on the weighted population criterion according to multiple secondary sources, with evidence dated 2026-08-20, older than last verification 2026-10-22",
+      "S10: stage under approval; the CEN-CENELEC official database shows prEN 18282 status changed from public enquiry to Under Approval, with the public enquiry closed on 30 July 2026 and the draft now in the approval stage",
+      "S13: stage published; ISO/IEC TR 24027 was published in 2021 and adopted by CEN-CENELEC as CEN/CLC ISO/IEC/TR 24027:2023, with the status changed from non-binding guidance to a published technical report, evidence dated 2024-10-14",
+      "S25: stage enquiry for prEN 18287, under approval for prEN 18281, drafting for prEN 18285; primary sources from CEN-CENELEC show these are distinct stages within the draft status that were not previously recorded",
+      "S29: the regulation entered into force on 10 December 2024, twenty days after publication in the Official Journal on 20 November 2024, with application dates for Article 14 from 11 September 2026 and full application from 11 December 2027, evidence dated 2024-11-20, older than last verification 2026-10-20"
+    ],
+    "rows_pending_review": [],
+    "evidence_missing": [],
+    "evidence_unknown_count": 26,
+    "summary": "Five sources were updated this round. Source S09 records the rejection of prEN 18229-1 at public enquiry in August 2026. Source S10 reflects prEN 18282 moving to approval stage after public enquiry closed in July. Source S13 captures the publication of ISO/IEC TR 24027 as a CEN/CLC technical report. Source S25 distinguishes three separate draft stages for standards prEN 18287, prEN 18281, and prEN 18285. Source S29 confirms the regulation's entry into force in December 2024 with staged application dates through 2027. No rows require owner decision. However, twenty-six rows could not be checked for evidence due to store configuration issues or errors, meaning the state of supporting documentation for those entries remains unknown.",
+    "evidence": [
+      {
+        "row_id": "RK-10.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of reviewed vendor terms, vendor assessment, or approved classification rule."
+      },
+      {
+        "row_id": "R-12.09",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for log design approved by DPO or RoPA entry."
+      },
+      {
+        "row_id": "RK-12.A",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "RK-12.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for storage configuration or restore tests evidence."
+      },
+      {
+        "row_id": "R-04.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of training plan, attendance records, or versioned content."
+      },
+      {
+        "row_id": "R-05.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of intake checklist with prohibited practices section or record of refused cases."
+      },
+      {
+        "row_id": "R-05.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of signed policy, filter configuration, or incident log."
+      },
+      {
+        "row_id": "R-06.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of use-case register with classification and reasoning."
+      },
+      {
+        "row_id": "R-06.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of derogation reasoning in the use-case register."
+      },
+      {
+        "row_id": "R-50.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of policy or editorial review record."
+      },
+      {
+        "row_id": "R-GDPR.01",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of completed intake or RoPA entry."
+      },
+      {
+        "row_id": "R-GDPR.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to verify presence of versioned privacy policy"
+      },
+      {
+        "row_id": "R-GDPR.03",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of triage criterion or human intervention procedure."
+      },
+      {
+        "row_id": "R-GDPR.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-GDPR.05",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of signed DPA or vendor assessment."
+      },
+      {
+        "row_id": "R-GDPR.06",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to search for access matrix or test reports."
+      },
+      {
+        "row_id": "R-GDPR.07",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify existence of procedure or breach log."
+      },
+      {
+        "row_id": "R-GDPR.08",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of DPIA per system or reasoned decision not to perform DPIA."
+      },
+      {
+        "row_id": "R-GDPR.09",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to verify presence of RoPA with AI entries"
+      },
+      {
+        "row_id": "R-GDPR.10",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for vendor assessment with transfer mechanism for international transfers to AI vendors outside EEA"
+      },
+      {
+        "row_id": "RK-G.A",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of citation check results, review record, or evaluation metrics."
+      },
+      {
+        "row_id": "RK-G.B",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of tool design, adversarial test reports, or approval log."
+      },
+      {
+        "row_id": "RK-G.C",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of permission matrix per agent or access review record."
+      },
+      {
+        "row_id": "RK-G.D",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured"
+      },
+      {
+        "row_id": "R-DA.02",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured. Unable to verify presence of contractual clauses or exit plans per vendor."
+      },
+      {
+        "row_id": "R-III.04",
+        "found": "unknown",
+        "location": null,
+        "last_modified": null,
+        "note": "Document store not configured - unable to search for HR tool inventory with classification"
+      }
+    ],
+    "errors": []
+  },
+  {
+    "round": "2026-10-22-157fa9",
+    "period": "2026-10-22-157fa9",
+    "sources_changed": [],
+    "rows_pending_review": [],
+    "evidence_missing": [
+      "RK-10.B",
+      "R-12.09",
+      "RK-12.A",
+      "RK-12.B",
+      "R-05.01",
+      "R-05.02",
+      "R-06.01",
+      "R-06.02",
+      "R-50.04",
+      "R-GDPR.01",
+      "R-GDPR.02",
+      "R-GDPR.03",
+      "R-GDPR.04",
+      "R-GDPR.06",
+      "R-GDPR.07",
+      "R-GDPR.08",
+      "R-GDPR.09",
+      "R-GDPR.10",
+      "RK-G.A",
+      "RK-G.B",
+      "RK-G.C",
+      "RK-G.D",
+      "R-DA.02",
+      "R-III.04"
+    ],
+    "evidence_unknown_count": 0,
+    "summary": "No source changes were approved or rejected this round. No rows require owner review. Evidence checks identified twenty-four rows with missing or outdated documentation: RK-10.B, R-12.09, RK-12.A, RK-12.B, R-05.01, R-05.02, R-06.01, R-06.02, R-50.04, R-GDPR.01 through R-GDPR.10 (excluding R-GDPR.05), RK-G.A through RK-G.D, R-DA.02, and R-III.04. Only two rows returned evidence found. All evidence checks completed successfully without configuration or system errors.",
+    "evidence": [
+      {
+        "row_id": "RK-10.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-12.09",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-12.A",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-12.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-04.01",
+        "found": "found",
+        "location": "R-04.01_training_register.txt (last modified 2026-10-22)",
+        "last_modified": "2026-10-22",
+        "note": "deterministic check, no model involved"
+      },
+      {
+        "row_id": "R-05.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-05.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-06.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-06.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-50.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.03",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.05",
+        "found": "found",
+        "location": "R-GDPR.05_DPA_vendor_assessment.txt (last modified 2026-10-22)",
+        "last_modified": "2026-10-22",
+        "note": "deterministic check, no model involved"
+      },
+      {
+        "row_id": "R-GDPR.06",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.07",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.08",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.09",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.10",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.A",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.C",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.D",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-DA.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-III.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      }
+    ],
+    "errors": []
+  },
+  {
+    "round": "2026-10-23-a93817",
+    "period": "2026-10-23-a93817",
+    "sources_changed": [
+      "S09: The CEN-CENELEC official project page now shows prEN 18229-1 with stage 'Under Approval', whereas the previous record had no stage information.",
+      "S11: The standard prEN 18228 has progressed to the public enquiry stage. According to a CEN-CENELEC news article dated 2026-05-27, the standard is under Public Enquiry until the end of July 2026.",
+      "S25: The CEN-CENELEC standards database shows different stages for the three standards: prEN 18287 is 'Under Enquiry', prEN 18281 is 'Under Approval', and prEN 18285 is 'Under Drafting'. The record showed no stage information previously."
+    ],
+    "rows_pending_review": [],
+    "evidence_missing": [
+      "RK-10.B",
+      "R-12.09",
+      "RK-12.A",
+      "RK-12.B",
+      "R-05.01",
+      "R-05.02",
+      "R-06.01",
+      "R-06.02",
+      "R-50.04",
+      "R-GDPR.01",
+      "R-GDPR.02",
+      "R-GDPR.03",
+      "R-GDPR.04",
+      "R-GDPR.06",
+      "R-GDPR.07",
+      "R-GDPR.08",
+      "R-GDPR.09",
+      "R-GDPR.10",
+      "RK-G.A",
+      "RK-G.B",
+      "RK-G.C",
+      "RK-G.D",
+      "R-DA.02",
+      "R-III.04"
+    ],
+    "evidence_unknown_count": 0,
+    "summary": "Three sources were approved this round. Source S09 now shows prEN 18229-1 under approval stage on the CEN-CENELEC project page. Source S11 confirms prEN 18228 entered public enquiry in May 2026, running until end of July. Source S25 updates three standards with distinct stages: prEN 18287 under enquiry, prEN 18281 under approval, and prEN 18285 under drafting. One source, S35, was rejected. No rows are awaiting owner decision. Evidence is missing or outdated for twenty-four rows spanning multiple requirement families including GDPR, data architecture, and key requirements. Only two rows have current evidence on file. All evidence checks completed without technical errors.",
+    "evidence": [
+      {
+        "row_id": "RK-10.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-12.09",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-12.A",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-12.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-04.01",
+        "found": "found",
+        "location": "R-04.01_training_register.txt (last modified 2026-10-22)",
+        "last_modified": "2026-10-22",
+        "note": "deterministic check, no model involved"
+      },
+      {
+        "row_id": "R-05.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-05.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-06.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-06.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-50.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.03",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.05",
+        "found": "found",
+        "location": "R-GDPR.05_DPA_vendor_assessment.txt (last modified 2026-10-22)",
+        "last_modified": "2026-10-22",
+        "note": "deterministic check, no model involved"
+      },
+      {
+        "row_id": "R-GDPR.06",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.07",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.08",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.09",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.10",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.A",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.C",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.D",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-DA.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-III.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      }
+    ],
+    "errors": []
+  },
+  {
+    "round": "2026-10-23-b6d0cc",
+    "period": "2026-10-23-b6d0cc",
+    "sources_changed": [
+      "S09: The standard prEN 18229-1 has progressed to the public enquiry stage. According to the JTC 21 official website, the public hearing (enquiry) for prEN 18229-1 was scheduled until 20 August 2026.",
+      "S10: The standard prEN 18282 has progressed to Public Enquiry stage. According to the official JTC 21 website dated May 8, 2026, EN 18282 (Cybersecurity specifications for AI systems) is now available for Public Enquiry, marking a stage advancement from the previously recorded draft status with no specified stage.",
+      "S11: prEN 18228 entered public enquiry phase in May 2026, with the enquiry period running until 30 July 2026. The CEN-CENELEC official news page confirms the standard is under Public Enquiry to support Article 9 of the AI Act.",
+      "S14: The EDPB Opinion 28/2024 on AI models was formally adopted on 17 December 2024 and published on 18 December 2024. The stage changed from none to 'Adopted'.",
+      "S25: The three standards are confirmed to remain in draft status (prEN) but are now at different stages: prEN 18287 is Under Enquiry, prEN 18281 is Under Approval, and prEN 18285 is Under Drafting. These stages were not previously recorded."
+    ],
+    "rows_pending_review": [],
+    "evidence_missing": [
+      "RK-10.B",
+      "R-12.09",
+      "RK-12.A",
+      "RK-12.B",
+      "R-05.01",
+      "R-05.02",
+      "R-06.01",
+      "R-06.02",
+      "R-50.04",
+      "R-GDPR.01",
+      "R-GDPR.02",
+      "R-GDPR.03",
+      "R-GDPR.04",
+      "R-GDPR.06",
+      "R-GDPR.07",
+      "R-GDPR.08",
+      "R-GDPR.09",
+      "R-GDPR.10",
+      "RK-G.A",
+      "RK-G.B",
+      "RK-G.C",
+      "RK-G.D",
+      "R-DA.02",
+      "R-III.04"
+    ],
+    "evidence_unknown_count": 0,
+    "summary": "Five sources advanced this round. Three harmonised standards for AI systems moved to public enquiry: prEN 18229-1 (enquiry closed August 2026), prEN 18282 on cybersecurity specifications (enquiry opened May 2026), and prEN 18228 (enquiry until July 2026). The EDPB Opinion 28/2024 on AI models was formally adopted in December 2024. Three additional standards under source S25 progressed to distinct stages: prEN 18287 is under enquiry, prEN 18281 under approval, and prEN 18285 under drafting. Two proposed changes (S20 and S35) were rejected. No rows await owner decision. Evidence is missing or outdated for twenty-four rows spanning risk management, GDPR obligations, data governance, and transparency requirements. Two rows have current evidence on file. No evidence checks failed due to configuration or system errors.",
+    "evidence": [
+      {
+        "row_id": "RK-10.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-12.09",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-12.A",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-12.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-04.01",
+        "found": "found",
+        "location": "R-04.01_training_register.txt (last modified 2026-10-22)",
+        "last_modified": "2026-10-22",
+        "note": "deterministic check, no model involved"
+      },
+      {
+        "row_id": "R-05.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-05.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-06.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-06.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-50.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.01",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.03",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.05",
+        "found": "found",
+        "location": "R-GDPR.05_DPA_vendor_assessment.txt (last modified 2026-10-22)",
+        "last_modified": "2026-10-22",
+        "note": "deterministic check, no model involved"
+      },
+      {
+        "row_id": "R-GDPR.06",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.07",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.08",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.09",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-GDPR.10",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.A",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.B",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.C",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "RK-G.D",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-DA.02",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      },
+      {
+        "row_id": "R-III.04",
+        "found": "not_found",
+        "location": null,
+        "last_modified": null,
+        "note": "no file starts with the row id"
+      }
+    ],
+    "errors": []
+  }
+]

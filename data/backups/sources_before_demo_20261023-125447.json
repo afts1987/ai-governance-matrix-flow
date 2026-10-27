@@ -1,0 +1,374 @@
+[
+  {
+    "id": "S01",
+    "source": "Regulation (EU) 2024/1689 (AI Act), consolidated version with AI Omnibus amendments",
+    "type": "Regulation",
+    "status": "Final text — in force",
+    "reference": "Unofficial reader-friendly version; EUR-Lex OJ:L_202401689",
+    "verified_on": "2026-10-20",
+    "how_verified": "Reading of the consolidated text: Arts. 4, 4a, 5, 6, 9 to 15, 17, 19, 26, 27, 50, 72, 73, 111, 113 and Annex IV. The Omnibus-amended articles (4, 4a, 5, 6, 10, 11, 17, 27, 42, 72) were cross-checked against the official text of Reg. 2026/1744 on EUR-Lex",
+    "note": "Unamended articles still read in the unofficial version."
+  },
+  {
+    "id": "S02",
+    "source": "Regulation (EU) 2026/1744 (Digital Omnibus on AI)",
+    "type": "Regulation",
+    "status": "Final text — in force",
+    "reference": "Of 8 Jul 2026; OJ L 2026/1744 of 24 Jul 2026; in force 27 Jul 2026; ELI reg/2026/1744",
+    "verified_on": "2026-10-20",
+    "how_verified": "Official text read on EUR-Lex (recitals and Art. 1, points 1 to 32)",
+    "note": "Defers Chapter III, Sections 1 to 3: 2 Dec 2027 (Annex III) and 2 Aug 2028 (Annex I)."
+  },
+  {
+    "id": "S03",
+    "source": "Regulation (EU) 2016/679 (GDPR)",
+    "type": "Regulation",
+    "status": "Final text — in force",
+    "reference": "EUR-Lex 32016R0679",
+    "verified_on": "—",
+    "how_verified": "General knowledge",
+    "note": "Confirm article numbers in the text."
+  },
+  {
+    "id": "S04",
+    "source": "EN 18286:2026 — Quality management system for EU AI Act regulatory purposes",
+    "type": "European standard",
+    "status": "Harmonised standard cited in the OJ",
+    "reference": "Commission Implementing Decision (EU) 2026/2274 of 12 Oct 2026; published in the OJ on 14 Oct 2026",
+    "verified_on": "2026-10-20",
+    "how_verified": "EUR-Lex (decision number and date) and secondary sources (publication date)",
+    "note": "Presumption only for high-risk providers and only for what Annex ZA covers."
+  },
+  {
+    "id": "S05",
+    "source": "ISO/IEC 27001:2022",
+    "type": "International standard",
+    "status": "Published standard (not harmonised)",
+    "reference": "Annex A: 93 controls in 4 themes",
+    "verified_on": "2026-10-20",
+    "how_verified": "Numbers and titles confirmed across several sources; scope checked against the published control statements of ISO/IEC 27002:2022 (isms.online, ISACA)",
+    "note": "Identifiers and control statements confirmed; the full implementation guidance was not read."
+  },
+  {
+    "id": "S06",
+    "source": "ISO/IEC 42001:2023",
+    "type": "International standard",
+    "status": "Published standard (not harmonised)",
+    "reference": "Annex A: 38 controls in 9 objectives (A.2 to A.10)",
+    "verified_on": "2026-10-20",
+    "how_verified": "Numbers and titles confirmed against the AI Verify and NIST AI RMF crosswalks and Standards Australia; scope checked against published control statements",
+    "note": "Identifiers and control statements confirmed; Annex B guidance not read. ISO certification is not a presumption of conformity with the AI Act."
+  },
+  {
+    "id": "S07",
+    "source": "prEN 18284 — Data quality and governance for AI",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "reference": "—",
+    "verified_on": "2026-10-22",
+    "how_verified": "Not verified in this session",
+    "note": "[2026-10-22] Stage: enquiry. [evidence dated 2025-11-01, older than last verification —] The CEN-CENELEC Annual Report 2025 states that prEN 18284 'Artificial Intelligence - Quality and governance of datasets in AI' was successfully submitted to enquiry in November 2025. This represents a stage progression within the draft status.",
+    "stage": "enquiry"
+  },
+  {
+    "id": "S08",
+    "source": "prEN 18283 — Bias management",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "reference": "Reported in public enquiry",
+    "verified_on": "2026-10-22",
+    "how_verified": "Not verified in this session",
+    "note": "[2026-10-22] Stage: enquiry. [evidence dated 2026-05-27, older than last verification —] prEN 18283 has progressed from working draft consultation (closed 30 April 2026) to public enquiry stage, with enquiry closing 22 October 2026.",
+    "stage": "enquiry"
+  },
+  {
+    "id": "S09",
+    "source": "prEN 18229-1 — Trustworthiness framework: logging",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "reference": "—",
+    "verified_on": "2026-10-22",
+    "how_verified": "Not verified in this session",
+    "note": "[2026-10-22] Stage: under approval (CEN-CENELEC database). A claim of rejection at enquiry on 20 Aug 2026 came only from secondary sources and is NOT confirmed; verify on the CEN-CENELEC project page before changing.",
+    "stage": "under approval"
+  },
+  {
+    "id": "S10",
+    "source": "prEN 18282 — Cybersecurity",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "reference": "—",
+    "verified_on": "2026-10-22",
+    "how_verified": "Not verified in this session",
+    "note": "[2026-10-22] Stage: under approval. The CEN-CENELEC official database shows prEN 18282 status changed from 'public enquiry' to 'Under Approval'. The public enquiry closed on 30 July 2026, and the draft is now in the approval stage.",
+    "stage": "under approval"
+  },
+  {
+    "id": "S11",
+    "source": "prEN 18228 — Risk management",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "reference": "—",
+    "verified_on": "2026-10-22",
+    "how_verified": "Not verified in this session",
+    "note": "[2026-10-22] Stage: comment resolution. [evidence dated 2026-09-01, older than last verification 2026-10-22] [evidence dated 2026-09-01, older than last verification 2026-10-22] [evidence dated 2026-09-01, older than last verification 2026-10-22] [evidence dated 2026-09-01, older than last verification 2026-10-22] [evidence dated 2026-09-01, older than last verification 2026-10-22] The first public enquiry for prEN 18228 closed on 30 July 2026 and was rejected by a majority of national standards bodies. The standard is now in comment resolution phase (scheduled for November 2026) before proceeding to formal vote.",
+    "stage": "comment resolution"
+  },
+  {
+    "id": "S12",
+    "source": "ISO/IEC 5259 series — Data quality for analytics and machine learning",
+    "type": "International standard",
+    "status": "Published standard (not harmonised)",
+    "reference": "—",
+    "verified_on": "—",
+    "how_verified": "General knowledge",
+    "note": "Confirm published parts."
+  },
+  {
+    "id": "S13",
+    "source": "ISO/IEC TR 24027 — Bias in AI systems",
+    "type": "Technical report",
+    "status": "Published standard (not harmonised)",
+    "reference": "—",
+    "verified_on": "2026-10-22",
+    "how_verified": "General knowledge",
+    "note": "[2026-10-22] Stage: published. [evidence dated 2024-10-14, older than last verification —] ISO/IEC TR 24027 was published in 2021 and adopted by CEN-CENELEC as CEN/CLC ISO/IEC/TR 24027:2023. The status has changed from non-binding guidance to a published technical report.",
+    "stage": "published"
+  },
+  {
+    "id": "S14",
+    "source": "EDPB Opinion 28/2024 on AI models",
+    "type": "Guidance",
+    "status": "Non-binding guidance",
+    "reference": "EDPB, Dec 2024",
+    "verified_on": "2026-10-22",
+    "how_verified": "General knowledge",
+    "note": "[2026-10-22] Stage: adopted. [evidence dated 2024-12-17, older than last verification —] EDPB Opinion 28/2024 was adopted on 17 December 2024 and published on 18 December 2024. The stage changed from none to adopted.",
+    "stage": "adopted"
+  },
+  {
+    "id": "S15",
+    "source": "NIST AI RMF 1.0 and Generative AI Profile",
+    "type": "Voluntary framework",
+    "status": "Non-binding guidance",
+    "reference": "NIST AI 100-1",
+    "verified_on": "—",
+    "how_verified": "General knowledge",
+    "note": "Subcategories to be indicated."
+  },
+  {
+    "id": "S16",
+    "source": "OWASP Top 10 for LLM Applications",
+    "type": "Guidance",
+    "status": "Non-binding guidance",
+    "reference": "Version to confirm",
+    "verified_on": "—",
+    "how_verified": "General knowledge",
+    "note": null
+  },
+  {
+    "id": "S17",
+    "source": "ISO/IEC 23894:2023 — AI risk management",
+    "type": "International standard",
+    "status": "Published standard (not harmonised)",
+    "reference": "—",
+    "verified_on": "—",
+    "how_verified": "General knowledge",
+    "note": null
+  },
+  {
+    "id": "S18",
+    "source": "ISO/IEC 42005:2025 — AI system impact assessment",
+    "type": "International standard",
+    "status": "Published standard (not harmonised)",
+    "reference": "—",
+    "verified_on": "—",
+    "how_verified": "General knowledge",
+    "note": "Publication year to confirm."
+  },
+  {
+    "id": "S19",
+    "source": "prEN 18229-2 — Trustworthiness framework: transparency",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "reference": "—",
+    "verified_on": "—",
+    "how_verified": "Not verified in this session",
+    "note": null
+  },
+  {
+    "id": "S20",
+    "source": "prEN 18229-3 — Trustworthiness framework: human oversight",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "reference": "—",
+    "verified_on": "2026-10-22",
+    "how_verified": "Not verified in this session",
+    "note": "[2026-10-22] Stage: Under Approval. The standard prEN 18229-3 (JT021056) has progressed to 'Under Approval' stage, having previously passed through CEN Enquiry in July 2026."
+  },
+  {
+    "id": "S21",
+    "source": "Commission guidelines on prohibited practices (Art. 5)",
+    "type": "Guidance",
+    "status": "Non-binding guidance",
+    "reference": "Feb 2025",
+    "verified_on": "2026-10-22",
+    "how_verified": "General knowledge",
+    "note": "[2026-10-22] Stage: published. The Commission Guidelines on prohibited artificial intelligence practices established by Regulation (EU) 2024/1689 (AI Act) were formally published on 4 February 2025, with a Commission Communication dated 29 July 2025 (C(2025) 5052 final). The guidelines are confirmed as non-binding and provide practical guidance on Article 5 AI Act prohibitions."
+  },
+  {
+    "id": "S22",
+    "source": "Commission guidelines on the definition of AI system (Art. 3)",
+    "type": "Guidance",
+    "status": "Non-binding guidance",
+    "reference": "Feb 2025",
+    "verified_on": "2026-10-22",
+    "how_verified": "General knowledge",
+    "note": null
+  },
+  {
+    "id": "S23",
+    "source": "Draft Commission guidelines on high-risk classification (Art. 6(5))",
+    "type": "Guidance",
+    "status": "Non-binding guidance",
+    "reference": "Draft published 19 May 2026; consultation closed 23 Jun 2026",
+    "verified_on": "2026-10-20",
+    "how_verified": "Commission digital-strategy page and law-firm commentary",
+    "note": "Three documents: general principles, Annex I annex, Annex III annex. Final adoption not verified."
+  },
+  {
+    "id": "S24",
+    "source": "Commission guidelines and code of practice for general-purpose AI models",
+    "type": "Guidance",
+    "status": "Non-binding guidance",
+    "reference": "Jul 2025",
+    "verified_on": "—",
+    "how_verified": "General knowledge",
+    "note": "For GPAI rows (outside current scope)."
+  },
+  {
+    "id": "S25",
+    "source": "prEN 18287 (environmental impact), prEN 18281 (computer vision), prEN 18285 (conformity assessment)",
+    "type": "CEN-CENELEC JTC 21 projects",
+    "status": "Draft (prEN)",
+    "reference": "—",
+    "verified_on": "2026-10-22",
+    "how_verified": "Not verified in this session",
+    "note": "[2026-10-22] Stage: enquiry (prEN 18287), under approval (prEN 18281), drafting (prEN 18285). Primary sources from CEN-CENELEC show prEN 18287 is now 'Under Enquiry', prEN 18281 is 'Under Approval', and prEN 18285 remains in drafting. These are distinct stages within the draft status that were not previously recorded.",
+    "stage": "enquiry (pren 18287), under approval (pren 18281), drafting (pren 18285)"
+  },
+  {
+    "id": "S26",
+    "source": "Directive (EU) 2022/2555 (NIS2) and Portuguese transposition",
+    "type": "Directive",
+    "status": "Final text — in force",
+    "reference": "Arts. 21 and 23; Portugal: Decree-Law 125/2025 of 4 Dec 2025, in force 3 Apr 2026",
+    "verified_on": "2026-10-20",
+    "how_verified": "Law-firm commentary (Cuatrecasas, ECIJA) and BDO brochure",
+    "note": "Directive deadlines 24 h / 72 h / 1 month; Portugal: 24 h / 72 h / end-of-impact / 30 business days, to the CNCS."
+  },
+  {
+    "id": "S27",
+    "source": "Regulation (EU) 2022/2554 (DORA) and RTS 2025/301",
+    "type": "Regulation",
+    "status": "Final text — in force",
+    "reference": "Applicable since 17 Jan 2025",
+    "verified_on": "2026-10-20",
+    "how_verified": "EBA page on the joint technical standards and supervisory authority pages (FMA)",
+    "note": "Deadlines: 4 h from classification / 24 h from awareness; 72 h; 1 month."
+  },
+  {
+    "id": "S28",
+    "source": "Regulation (EU) 2023/2854 (Data Act)",
+    "type": "Regulation",
+    "status": "Final text — in force",
+    "reference": "Applicable since 12 Sep 2025; Art. 3(1) for products placed on the market after 12 Sep 2026; switching charges abolished 12 Jan 2027",
+    "verified_on": "2026-10-20",
+    "how_verified": "Art. 50 text (Springlex reproduction) and Commission page",
+    "note": "Chapter IV applies to pre-existing contracts from 12 Sep 2027 under conditions."
+  },
+  {
+    "id": "S30",
+    "source": "ISO/IEC 27701:2025 — Privacy information management systems",
+    "type": "International standard",
+    "status": "Published standard (not harmonised)",
+    "reference": "Published Oct 2025; standalone PIMS; Annex A: 31 controller, 18 processor and 29 shared controls (78); Annex F maps to the 2019 edition",
+    "verified_on": "2026-10-20",
+    "how_verified": "Structure confirmed across isms.online, SGS and iso27001security.com; individual 2025 control identifiers not verified",
+    "note": "Mapped at table-and-topic level only. Certification scheme: ISO/IEC 27706. Transition from 2019 by Oct 2028."
+  },
+  {
+    "id": "S31",
+    "source": "ISO 9001:2015 — Quality management systems",
+    "type": "International standard",
+    "status": "Published standard (not harmonised)",
+    "reference": "Clauses 4 to 10 (Harmonized Structure)",
+    "verified_on": "—",
+    "how_verified": "General knowledge (clause structure is stable since 2015)",
+    "note": "Generic QMS base; EN 18286 is the AI Act-specific QMS. Mapped only on QMS, post-market and incident rows."
+  },
+  {
+    "id": "S32",
+    "source": "ISO/IEC 42006:2025 — Requirements for bodies auditing and certifying AI management systems",
+    "type": "International standard",
+    "status": "Published standard (not harmonised)",
+    "reference": "—",
+    "verified_on": "—",
+    "how_verified": "General knowledge",
+    "note": "Not mapped to rows; relevant to the credibility of any ISO 42001 certificate presented by a vendor."
+  },
+  {
+    "id": "S29",
+    "source": "Regulation (EU) 2024/2847 (Cyber Resilience Act)",
+    "type": "Regulation",
+    "status": "Final text — in force",
+    "reference": "Main obligations from 11 Dec 2027; Art. 14 reporting since 11 Sep 2026; Commission guidance of 27 Jul 2026",
+    "verified_on": "2026-10-22",
+    "how_verified": "Several concordant sources; articulation with the AI Act confirmed in the official Omnibus text (new Art. 42(3))",
+    "note": "[2026-10-22] [evidence dated 2024-11-20, older than last verification 2026-10-20] The regulation entered into force on 10 December 2024, twenty days after publication in the Official Journal on 20 November 2024. Application dates remain as recorded: Article 14 from 11 September 2026, full application from 11 December 2027."
+  },
+  {
+    "id": "S33",
+    "source": "prEN 18229-4 — Trustworthiness framework: accuracy",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "stage": "",
+    "reference": "Supports Art. 15 (accuracy)",
+    "verified_on": "—",
+    "how_verified": "Listed in a secondary overview (O. Patel, 21 Oct 2026) as working draft; not verified on CEN-CENELEC",
+    "note": ""
+  },
+  {
+    "id": "S34",
+    "source": "prEN 18229-5 — Trustworthiness framework: robustness",
+    "type": "CEN-CENELEC JTC 21 project",
+    "status": "Draft (prEN)",
+    "stage": "",
+    "reference": "Supports Art. 15 (robustness)",
+    "verified_on": "—",
+    "how_verified": "Listed in a secondary overview (O. Patel, 21 Oct 2026) as working draft; not verified on CEN-CENELEC",
+    "note": ""
+  },
+  {
+    "id": "S35",
+    "source": "CNCS — Centro Nacional de Cibersegurança (Portugal): NIS2 authority, incident notification point, national cybersecurity framework (QNRCS) and guidance",
+    "type": "National regulator",
+    "status": "Non-binding guidance",
+    "stage": "",
+    "reference": "https://www.cncs.gov.pt — Decree-Law 125/2025 (NIS2 transposition)",
+    "verified_on": "—",
+    "how_verified": "Added as a watched regulator; publications not yet verified by the agent",
+    "note": "Watch: new guidance, notification templates, deadlines, QNRCS updates."
+  },
+  {
+    "id": "S36",
+    "source": "CNPD — Comissão Nacional de Proteção de Dados (Portugal): GDPR authority; list of processing requiring a DPIA, deliberations and guidance on AI",
+    "type": "National regulator",
+    "status": "Non-binding guidance",
+    "stage": "",
+    "reference": "https://www.cnpd.pt",
+    "verified_on": "—",
+    "how_verified": "Added as a watched regulator; publications not yet verified by the agent",
+    "note": "Watch: DPIA list, deliberations on AI and automated decisions, guidance on AI tools at work."
+  }
+]
